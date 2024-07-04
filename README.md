@@ -2,6 +2,6 @@
 Basic Neural Network &amp; AI study, MD Winners Coding Team
 
 **Leader**:  
-@owenchokor
+@owenchokor  
 **Members**:  
 @DH-dot131
