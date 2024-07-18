@@ -2,12 +2,14 @@
 Basic Neural Network &amp; AI study, MD Winners Coding Team
 
 **Leader**:  
-Sungjae Cho @owenchokor  
+Sungjae Cho @owenchokor
+-----
 **Members**:  
-Donghyuk Gwak @DH-dot131
-Sunghyeon Kim @wasder43
-Seongok Kim @sokiii13
-Junseon Sim @drtx33
+Donghyuk Kwak @DH-dot131
+Sunghyun Kim @wasder43
+Sung-ok Kim @sokiii13
+Junsun Sim @drtx33
+-----
 **Curriculum**:  
 Day 1: Simple neural networks
 Day 2: Simple CNNs (LeNet, AlexNet, VGGnet)
