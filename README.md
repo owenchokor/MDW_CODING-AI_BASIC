@@ -1,14 +1,18 @@
 # MDW_CODING-AI_BASIC
-Basic Neural Network &amp; AI study, MD Winners Coding Team
+### Basic Neural Network &amp; AI study, MD Winners Coding Team
+
+<img title="logo" src="/images/logo.jpg">
 
 **Leader**:  
-Sungjae Cho @owenchokor
+Sungjae Cho @owenchokor  
+
 -----
 **Members**:  
-Donghyuk Kwak @DH-dot131
-Sunghyun Kim @wasder43
-Sung-ok Kim @sokiii13
-Junsun Sim @drtx33
+Donghyuk Kwak @DH-dot131  
+Sunghyun Kim @wasder43  
+Sung-ok Kim @sokiii13  
+Junsun Sim @drtx33    
+
 -----
 **Curriculum**:  
 Day 1: Simple neural networks
