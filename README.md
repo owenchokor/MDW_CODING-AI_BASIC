@@ -15,6 +15,10 @@ Junsun Sim @drtx33
 
 -----
 **Curriculum**:  
-Day 1: Simple neural networks
-Day 2: Simple CNNs (LeNet, AlexNet, VGGnet)
-Day 3: ResNet, U-Net, Evaluation Metrics
+1. Paper Study
+- Day 1: Simple neural networks  
+- Day 2: Simple CNNs (LeNet, AlexNet, VGGnet)  
+- Day 3: ResNet, U-Net, Evaluation Metrics
+2. Coding
+
+
