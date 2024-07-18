@@ -13,12 +13,14 @@ Sunghyun Kim @wasder43
 Sung-ok Kim @sokiii13  
 Junsun Sim @drtx33    
 
+(Contributor) Hyunbin Joo @Bina1026
+
 -----
 **Curriculum**:  
-1. Paper Study
-- Day 1: Simple neural networks  
-- Day 2: Simple CNNs (LeNet, AlexNet, VGGnet)  
-- Day 3: ResNet, U-Net, Evaluation Metrics
-2. Coding
+1. Paper Study (Jul 2024)
+- Day 1: Simple neural networks  @drtx33    
+- Day 2: Simple CNNs (LeNet, AlexNet, VGGnet)  @wasder43  
+- Day 3: ResNet, U-Net, Evaluation Metrics  @DH-dot131  @owenchokor  @Bina1026
+2. Coding (Aug 2024 ~ )
 
 
