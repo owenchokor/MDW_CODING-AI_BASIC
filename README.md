@@ -1,7 +1,7 @@
 # MDW_CODING-AI_BASIC
 ### Basic Neural Network &amp; AI study, MD Winners Coding Team
 
-<img title="logo" src="/images/logo.jpg">
+<img title="logo" src="/logo.jpg">
 
 **Leader**:  
 Sungjae Cho @owenchokor  
