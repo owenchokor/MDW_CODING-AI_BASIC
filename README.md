@@ -7,7 +7,7 @@
 Sungjae Cho @owenchokor  
 
 -----
-**Members**:  
+**Study Members**:  
 Donghyuk Kwak @DH-dot131  
 Sunghyun Kim @wasder43  
 Sung-ok Kim @sokiii13  
