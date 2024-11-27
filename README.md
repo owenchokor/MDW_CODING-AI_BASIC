@@ -3,7 +3,7 @@
 
 <img title="logo" src="/logo.jpg">
 
-**Leader**:  
+**Study Leader**:  
 Sungjae Cho @owenchokor  
 
 -----
